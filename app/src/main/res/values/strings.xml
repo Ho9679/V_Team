@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FindMe</string>
+
+    <string name="title">병해충의 모든 것</string>
+
+    <string name="sub1_1">식량</string>
+    <string name="sub1_2">과수</string>
+    <string name="sub1_3">채소</string>
+    <string name="sub1_4">화훼</string>
+    <string name="sub1_5">특용</string>
+    <string name="sub1_6">잡초</string>
+
+
+</resources>
