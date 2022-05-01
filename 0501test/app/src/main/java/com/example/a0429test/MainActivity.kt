@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        /*상단 홈, 검색 이미지*/
         imageViews[0] = findViewById<View>(R.id.Top_home) as ImageView
         imageViews[1] = findViewById<View>(R.id.Top_search) as ImageView
 

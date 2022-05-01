@@ -21,6 +21,7 @@ public class Menu1Activity extends AppCompatActivity {
     private final int Fragment_5 = 5;
     private final int Fragment_6 = 6;
 
+    /*상단 홈, 검색 이미지*/
     private ImageView[] imageViews = new ImageView[2];
 
 
@@ -29,6 +30,7 @@ public class Menu1Activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_menu1);
 
+        /*상단 홈, 검색 이미지*/
         imageViews[0] = (ImageView) findViewById(R.id.Top_home);
         imageViews[1] = (ImageView) findViewById(R.id.Top_search);
 
